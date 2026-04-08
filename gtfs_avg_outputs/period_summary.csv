@@ -1,0 +1,4 @@
+period_id,period_label,n_analysis_days,feeds_used,avg_n_routes_peak,avg_median_route_headway_peak_min,avg_mean_route_headway_peak_min,avg_n_routes_midday,avg_median_route_headway_midday_min,avg_mean_route_headway_midday_min,avg_total_peak_trips,avg_n_route_direction_peak,avg_total_midday_trips,avg_n_route_direction_midday
+P1,2025-08-04_to_2025-08-25,16,CTA_0711; CTA_0814,132,12,15.460164141414142,113.75,15,21.604206104912148,3809.625,247,3783.875,217.5
+P2,2025-08-25_to_2025-09-08,9,CTA_0814,131.11111111111111,12,14.562618276784947,114.11111111111111,15,21.623659954683426,3853.1111111111113,246.55555555555554,3807.8888888888887,218.22222222222223
+P3,2025-09-08_to_2025-09-29,16,CTA_0814,130,12,13.667564102564102,113,15,21.609218289085543,3852,246,3785.375,216

@@ -1,0 +1,754 @@
+period_id,route_id,direction_id,avg_n_trips,median_n_trips,days_with_service,share_days_with_service,route_short_name,route_long_name,route_type
+P1,1,0,0,0,0,0,1,Bronzeville/Union Station,3
+P1,1,1,0,0,0,0,1,Bronzeville/Union Station,3
+P1,10,0,7,7,16,1,10,Museum of Science & Industry,3
+P1,10,1,7,7,16,1,10,Museum of Science & Industry,3
+P1,100,0,0,0,0,0,100,Jeffery Manor Express,3
+P1,100,1,0,0,0,0,100,Jeffery Manor Express,3
+P1,103,0,12,12,16,1,103,West 103rd,3
+P1,103,1,11,11,16,1,103,West 103rd,3
+P1,106,0,14,14,16,1,106,East 103rd,3
+P1,106,1,12,12,16,1,106,East 103rd,3
+P1,108,0,0,0,0,0,108,Halsted/95th,3
+P1,108,1,0,0,0,0,108,Halsted/95th,3
+P1,11,0,10,10,16,1,11,Lincoln,3
+P1,11,1,10,10,16,1,11,Lincoln,3
+P1,111,0,14,14,16,1,111,111th/King Drive,3
+P1,111,1,14,14,16,1,111,111th/King Drive,3
+P1,111A,0,10,10,16,1,111A,Pullman Shuttle,3
+P1,111A,1,10,10,16,1,111A,Pullman Shuttle,3
+P1,112,0,12,12,16,1,112,Vincennes/111th,3
+P1,112,1,13,13,16,1,112,Vincennes/111th,3
+P1,115,0,14,14,16,1,115,Pullman/115th,3
+P1,115,1,15,15,16,1,115,Pullman/115th,3
+P1,119,0,17,17,16,1,119,Michigan/119th,3
+P1,119,1,17,17,16,1,119,Michigan/119th,3
+P1,12,0,22,22,16,1,12,Roosevelt,3
+P1,12,1,22,22,16,1,12,Roosevelt,3
+P1,120,0,0,0,0,0,120,Ogilvie/Streeterville Express,3
+P1,120,1,0,0,0,0,120,Ogilvie/Streeterville Express,3
+P1,121,0,0,0,0,0,121,Union/Streeterville Express,3
+P1,121,1,0,0,0,0,121,Union/Streeterville Express,3
+P1,124,0,12,15,16,1,124,Navy Pier,3
+P1,124,1,12,15,16,1,124,Navy Pier,3
+P1,125,0,0,0,0,0,125,Water Tower Express,3
+P1,125,1,0,0,0,0,125,Water Tower Express,3
+P1,126,0,15,15,16,1,126,Jackson,3
+P1,126,1,14,14,16,1,126,Jackson,3
+P1,130,0,13,13,16,1,130,Museum Campus,3
+P1,130,1,13,13,16,1,130,Museum Campus,3
+P1,134,0,0,0,0,0,134,Stockton/LaSalle Express,3
+P1,135,0,0,0,0,0,135,Clarendon/LaSalle Express,3
+P1,136,0,0,0,0,0,136,Sheridan/LaSalle Express,3
+P1,143,0,0,0,0,0,143,Stockton/Michigan Express,3
+P1,146,0,23,23,16,1,146,Inner Lake Shore/Michigan Express,3
+P1,146,1,24,24,16,1,146,Inner Lake Shore/Michigan Express,3
+P1,147,0,22,22,16,1,147,Outer DuSable Lake Shore Express,3
+P1,147,1,16,16,16,1,147,Outer DuSable Lake Shore Express,3
+P1,148,0,0,0,0,0,148,Clarendon/Michigan Express,3
+P1,15,0,16,16,16,1,15,Jeffery Local,3
+P1,15,1,15,15,16,1,15,Jeffery Local,3
+P1,151,0,23,23,16,1,151,Sheridan,3
+P1,151,1,22,22,16,1,151,Sheridan,3
+P1,152,0,14,14,16,1,152,Addison,3
+P1,152,1,16.375,16,16,1,152,Addison,3
+P1,155,0,16,16,16,1,155,Devon,3
+P1,155,1,17,17,16,1,155,Devon,3
+P1,156,0,11,11,16,1,156,LaSalle,3
+P1,156,1,11,11,16,1,156,LaSalle,3
+P1,157,0,15,15,16,1,157,Streeterville/Taylor,3
+P1,157,1,15,15,16,1,157,Streeterville/Taylor,3
+P1,165,0,0,0,0,0,165,West 65th,3
+P1,169,0,0,0,0,0,169,69th/UPS Express,3
+P1,171,0,2.625,0,6,0.375,171,U. of Chicago/Hyde Park,3
+P1,171,1,3,0,6,0.375,171,U. of Chicago/Hyde Park,3
+P1,172,0,4.875,0,6,0.375,172,U. of Chicago/Kenwood,3
+P1,172,1,4.875,0,6,0.375,172,U. of Chicago/Kenwood,3
+P1,18,0,13,13,16,1,18,16th/18th,3
+P1,18,1,12,12,16,1,18,16th/18th,3
+P1,192,0,0,0,0,0,192,University of Chicago Hospitals Express,3
+P1,2,0,0,0,0,0,2,Hyde Park Express,3
+P1,2,1,0,0,0,0,2,Hyde Park Express,3
+P1,20,0,29,29,16,1,20,Madison,3
+P1,20,1,28,28,16,1,20,Madison,3
+P1,201,0,7,7,16,1,201,Central/Ridge,3
+P1,201,1,7,7,16,1,201,Central/Ridge,3
+P1,206,0,0,0,0,0,206,Evanston Circulator,3
+P1,206,1,0,0,0,0,206,Evanston Circulator,3
+P1,21,0,18,18,16,1,21,Cermak,3
+P1,21,1,17.625,18,16,1,21,Cermak,3
+P1,22,0,25,25,16,1,22,Clark,3
+P1,22,1,23,23,16,1,22,Clark,3
+P1,24,0,12.375,12,16,1,24,Wentworth,3
+P1,24,1,11,11,16,1,24,Wentworth,3
+P1,26,0,3,3,16,1,26,South Shore Express,3
+P1,26,1,16,16,16,1,26,South Shore Express,3
+P1,28,0,14,14,16,1,28,Stony Island,3
+P1,28,1,15,15,16,1,28,Stony Island,3
+P1,29,0,20,20,16,1,29,State,3
+P1,29,1,20,20,16,1,29,State,3
+P1,3,0,25,25,16,1,3,King Drive,3
+P1,3,1,23,23,16,1,3,King Drive,3
+P1,30,0,12,12,16,1,30,South Chicago,3
+P1,30,1,11,11,16,1,30,South Chicago,3
+P1,31,0,7,7,16,1,31,31st,3
+P1,31,1,7,7,16,1,31,31st,3
+P1,34,0,21,21,16,1,34,South Michigan,3
+P1,34,1,21,21,16,1,34,South Michigan,3
+P1,35,0,12,12,16,1,35,31st/35th,3
+P1,35,1,12,12,16,1,35,31st/35th,3
+P1,36,0,20,20,16,1,36,Broadway,3
+P1,36,1,20,20,16,1,36,Broadway,3
+P1,37,0,8,8,16,1,37,Sedgwick,3
+P1,37,1,8,8,16,1,37,Sedgwick,3
+P1,39,0,9,9,16,1,39,Pershing,3
+P1,39,1,9,9,16,1,39,Pershing,3
+P1,4,0,28,28,16,1,4,Cottage Grove,3
+P1,4,1,29,29,16,1,4,Cottage Grove,3
+P1,43,0,11,11,16,1,43,43rd,3
+P1,43,1,11,11,16,1,43,43rd,3
+P1,44,0,11,11,16,1,44,Wallace/Racine,3
+P1,44,1,12,12,16,1,44,Wallace/Racine,3
+P1,47,0,25,25,16,1,47,47th,3
+P1,47,1,26,26,16,1,47,47th,3
+P1,48,0,1,1,16,1,48,South Damen,3
+P1,48,1,0,0,0,0,48,South Damen,3
+P1,49,0,35,35,16,1,49,Western,3
+P1,49,1,34,34,16,1,49,Western,3
+P1,49B,0,19,19,16,1,49B,North Western,3
+P1,49B,1,18,18,16,1,49B,North Western,3
+P1,50,0,18.125,18,16,1,50,Damen,3
+P1,50,1,17,17,16,1,50,Damen,3
+P1,51,0,11,11,16,1,51,51st,3
+P1,51,1,11,11,16,1,51,51st,3
+P1,52,0,18,18,16,1,52,Kedzie,3
+P1,52,1,17.625,18,16,1,52,Kedzie,3
+P1,52A,0,12,12,16,1,52A,South Kedzie,3
+P1,52A,1,12,12,16,1,52A,South Kedzie,3
+P1,53,0,27.8125,24,16,1,53,Pulaski,3
+P1,53,1,25.6875,23,16,1,53,Pulaski,3
+P1,53A,0,13.625,14,16,1,53A,South Pulaski,3
+P1,53A,1,17.25,18,16,1,53A,South Pulaski,3
+P1,54,0,25.375,25,16,1,54,Cicero,3
+P1,54,1,24,24,16,1,54,Cicero,3
+P1,54A,0,0,0,0,0,54A,North Cicero/Skokie Blvd.,3
+P1,54A,1,0,0,0,0,54A,North Cicero/Skokie Blvd.,3
+P1,54B,0,10,10,16,1,54B,South Cicero,3
+P1,54B,1,10,10,16,1,54B,South Cicero,3
+P1,55,0,23.375,20,16,1,55,Garfield,3
+P1,55,1,22.25,20,16,1,55,Garfield,3
+P1,55A,0,0,0,0,0,55A,55th/Austin,3
+P1,55A,1,0,0,0,0,55A,55th/Austin,3
+P1,55N,0,9,9,16,1,55N,55th/Narragansett,3
+P1,55N,1,9,9,16,1,55N,55th/Narragansett,3
+P1,56,0,16,16,16,1,56,Milwaukee,3
+P1,56,1,15,15,16,1,56,Milwaukee,3
+P1,57,0,12,12,16,1,57,Laramie,3
+P1,57,1,12.625,13,16,1,57,Laramie,3
+P1,59,0,12.375,12,16,1,59,59th/61st,3
+P1,59,1,12,12,16,1,59,59th/61st,3
+P1,6,0,20,20,16,1,6,Jackson Park Express,3
+P1,6,1,20,20,16,1,6,Jackson Park Express,3
+P1,60,0,25,25,16,1,60,Blue Island/26th,3
+P1,60,1,25,25,16,1,60,Blue Island/26th,3
+P1,62,0,17,17,16,1,62,Archer,3
+P1,62,1,17,17,16,1,62,Archer,3
+P1,62H,0,7,7,16,1,62H,Archer/Harlem,3
+P1,62H,1,6,6,16,1,62H,Archer/Harlem,3
+P1,63,0,32.375,32,16,1,63,63rd,3
+P1,63,1,30.625,31,16,1,63,63rd,3
+P1,63W,0,8,8,16,1,63W,West 63rd,3
+P1,63W,1,8,8,16,1,63W,West 63rd,3
+P1,65,0,12.375,12,16,1,65,Grand,3
+P1,65,1,11,11,16,1,65,Grand,3
+P1,66,0,36,36,16,1,66,Chicago,3
+P1,66,1,35,35,16,1,66,Chicago,3
+P1,67,0,23,23,16,1,67,67th/69th/71st,3
+P1,67,1,23.0625,23,16,1,67,67th/69th/71st,3
+P1,68,0,8,8,16,1,68,Northwest Highway,3
+P1,68,1,8,8,16,1,68,Northwest Highway,3
+P1,7,0,15.625,16,16,1,7,Harrison,3
+P1,7,1,16,16,16,1,7,Harrison,3
+P1,70,0,19,19,16,1,70,Division,3
+P1,70,1,19,19,16,1,70,Division,3
+P1,71,0,19,19,16,1,71,71st/South Shore,3
+P1,71,1,19,19,16,1,71,71st/South Shore,3
+P1,72,0,23.625,24,16,1,72,North,3
+P1,72,1,22.625,23,16,1,72,North,3
+P1,73,0,12,12,16,1,73,Armitage,3
+P1,73,1,13.375,13,16,1,73,Armitage,3
+P1,74,0,20,20,16,1,74,Fullerton,3
+P1,74,1,22,22,16,1,74,Fullerton,3
+P1,75,0,18,18,16,1,75,74th/75th,3
+P1,75,1,19,19,16,1,75,74th/75th,3
+P1,76,0,16,16,16,1,76,Diversey,3
+P1,76,1,18,18,16,1,76,Diversey,3
+P1,77,0,25.375,25,16,1,77,Belmont,3
+P1,77,1,29.375,29,16,1,77,Belmont,3
+P1,78,0,18,18,16,1,78,Montrose,3
+P1,78,1,16.375,16,16,1,78,Montrose,3
+P1,79,0,39.875,41,16,1,79,79th,3
+P1,79,1,40,40,16,1,79,79th,3
+P1,8,0,29,29,16,1,8,Halsted,3
+P1,8,1,28,28,16,1,8,Halsted,3
+P1,80,0,20,20,16,1,80,Irving Park,3
+P1,80,1,22.1875,22,16,1,80,Irving Park,3
+P1,81,0,22.625,23,16,1,81,Lawrence,3
+P1,81,1,23.625,24,16,1,81,Lawrence,3
+P1,81W,0,9,9,16,1,81W,West Lawrence,3
+P1,81W,1,8,8,16,1,81W,West Lawrence,3
+P1,82,0,27,27,16,1,82,Kimball/Homan,3
+P1,82,1,30.375,30,16,1,82,Kimball/Homan,3
+P1,84,0,14,14,16,1,84,Peterson,3
+P1,84,1,15.5,15,16,1,84,Peterson,3
+P1,85,0,15,15,16,1,85,Central,3
+P1,85,1,15,15,16,1,85,Central,3
+P1,85A,0,10,10,16,1,85A,North Central,3
+P1,85A,1,9,9,16,1,85A,North Central,3
+P1,86,0,11,11,16,1,86,Narragansett/Ridgeland,3
+P1,86,1,11,11,16,1,86,Narragansett/Ridgeland,3
+P1,87,0,25.125,24,16,1,87,87th,3
+P1,87,1,23,23,16,1,87,87th,3
+P1,88,0,8,8,16,1,88,Higgins,3
+P1,88,1,8,8,16,1,88,Higgins,3
+P1,8A,0,14,14,16,1,8A,South Halsted,3
+P1,8A,1,13,13,16,1,8A,South Halsted,3
+P1,9,0,31,31,16,1,9,Ashland,3
+P1,9,1,32.375,32,16,1,9,Ashland,3
+P1,90,0,11,11,16,1,90,Harlem,3
+P1,90,1,11,11,16,1,90,Harlem,3
+P1,91,0,14,14,16,1,91,Austin,3
+P1,91,1,14,14,16,1,91,Austin,3
+P1,92,0,15,15,16,1,92,Foster,3
+P1,92,1,15,15,16,1,92,Foster,3
+P1,93,0,11,11,16,1,93,California/Dodge,3
+P1,93,1,11.25,11,16,1,93,California/Dodge,3
+P1,94,0,20,20,16,1,94,California,3
+P1,94,1,20,20,16,1,94,California,3
+P1,95,0,25.875,24,16,1,95,95th,3
+P1,95,1,28.375,28,16,1,95,95th,3
+P1,96,0,7,7,16,1,96,Lunt,3
+P1,96,1,6,6,16,1,96,Lunt,3
+P1,97,0,11,11,16,1,97,Skokie,3
+P1,97,1,11,11,16,1,97,Skokie,3
+P1,Blue,0,41,41,16,1,NA,Blue Line,1
+P1,Blue,1,41,41,16,1,NA,Blue Line,1
+P1,Brn,0,34,34,16,1,NA,Brown Line,1
+P1,G,0,24,24,16,1,NA,Green Line,1
+P1,G,1,24,24,16,1,NA,Green Line,1
+P1,J14,0,24,24,16,1,J14,Jeffery Jump,3
+P1,J14,1,24,24,16,1,J14,Jeffery Jump,3
+P1,Org,1,28,28,16,1,NA,Orange Line,1
+P1,P,1,39,39,16,1,NA,Purple Line,1
+P1,Pink,1,24,24,16,1,NA,Pink Line,1
+P1,Red,0,40,40,16,1,NA,Red Line,1
+P1,Red,1,40,40,16,1,NA,Red Line,1
+P1,X4,0,1,1,16,1,X4,Cottage Grove Express,3
+P1,X4,1,2,2,16,1,X4,Cottage Grove Express,3
+P1,X49,0,0,0,0,0,X49,Western Express,3
+P1,X49,1,0,0,0,0,X49,Western Express,3
+P1,X9,0,6,6,16,1,X9,Ashland Express,3
+P1,X9,1,4,4,16,1,X9,Ashland Express,3
+P1,Y,1,24,24,16,1,NA,Yellow Line,1
+P2,1,0,0,0,0,0,1,Bronzeville/Union Station,3
+P2,1,1,0,0,0,0,1,Bronzeville/Union Station,3
+P2,10,0,3.888888888888889,7,5,0.5555555555555556,10,Museum of Science & Industry,3
+P2,10,1,3.888888888888889,7,5,0.5555555555555556,10,Museum of Science & Industry,3
+P2,100,0,0,0,0,0,100,Jeffery Manor Express,3
+P2,100,1,0,0,0,0,100,Jeffery Manor Express,3
+P2,103,0,12,12,9,1,103,West 103rd,3
+P2,103,1,11,11,9,1,103,West 103rd,3
+P2,106,0,14,14,9,1,106,East 103rd,3
+P2,106,1,12,12,9,1,106,East 103rd,3
+P2,108,0,0,0,0,0,108,Halsted/95th,3
+P2,108,1,0,0,0,0,108,Halsted/95th,3
+P2,11,0,10,10,9,1,11,Lincoln,3
+P2,11,1,10,10,9,1,11,Lincoln,3
+P2,111,0,14,14,9,1,111,111th/King Drive,3
+P2,111,1,14,14,9,1,111,111th/King Drive,3
+P2,111A,0,10,10,9,1,111A,Pullman Shuttle,3
+P2,111A,1,10,10,9,1,111A,Pullman Shuttle,3
+P2,112,0,12,12,9,1,112,Vincennes/111th,3
+P2,112,1,13,13,9,1,112,Vincennes/111th,3
+P2,115,0,14,14,9,1,115,Pullman/115th,3
+P2,115,1,15,15,9,1,115,Pullman/115th,3
+P2,119,0,17,17,9,1,119,Michigan/119th,3
+P2,119,1,17,17,9,1,119,Michigan/119th,3
+P2,12,0,22,22,9,1,12,Roosevelt,3
+P2,12,1,22,22,9,1,12,Roosevelt,3
+P2,120,0,0,0,0,0,120,Ogilvie/Streeterville Express,3
+P2,120,1,0,0,0,0,120,Ogilvie/Streeterville Express,3
+P2,121,0,0,0,0,0,121,Union/Streeterville Express,3
+P2,121,1,0,0,0,0,121,Union/Streeterville Express,3
+P2,124,0,7,7,9,1,124,Navy Pier,3
+P2,124,1,7,7,9,1,124,Navy Pier,3
+P2,125,0,0,0,0,0,125,Water Tower Express,3
+P2,125,1,0,0,0,0,125,Water Tower Express,3
+P2,126,0,15,15,9,1,126,Jackson,3
+P2,126,1,14,14,9,1,126,Jackson,3
+P2,130,0,7.222222222222222,13,5,0.5555555555555556,130,Museum Campus,3
+P2,130,1,7.222222222222222,13,5,0.5555555555555556,130,Museum Campus,3
+P2,134,0,0,0,0,0,134,Stockton/LaSalle Express,3
+P2,135,0,0,0,0,0,135,Clarendon/LaSalle Express,3
+P2,136,0,0,0,0,0,136,Sheridan/LaSalle Express,3
+P2,143,0,0,0,0,0,143,Stockton/Michigan Express,3
+P2,146,0,23,23,9,1,146,Inner Lake Shore/Michigan Express,3
+P2,146,1,24,24,9,1,146,Inner Lake Shore/Michigan Express,3
+P2,147,0,22,22,9,1,147,Outer DuSable Lake Shore Express,3
+P2,147,1,16,16,9,1,147,Outer DuSable Lake Shore Express,3
+P2,148,0,0,0,0,0,148,Clarendon/Michigan Express,3
+P2,15,0,16,16,9,1,15,Jeffery Local,3
+P2,15,1,15,15,9,1,15,Jeffery Local,3
+P2,151,0,23,23,9,1,151,Sheridan,3
+P2,151,1,22,22,9,1,151,Sheridan,3
+P2,152,0,14,14,9,1,152,Addison,3
+P2,152,1,17,17,9,1,152,Addison,3
+P2,155,0,16,16,9,1,155,Devon,3
+P2,155,1,17,17,9,1,155,Devon,3
+P2,156,0,11,11,9,1,156,LaSalle,3
+P2,156,1,11,11,9,1,156,LaSalle,3
+P2,157,0,15,15,9,1,157,Streeterville/Taylor,3
+P2,157,1,15,15,9,1,157,Streeterville/Taylor,3
+P2,165,0,0,0,0,0,165,West 65th,3
+P2,169,0,0,0,0,0,169,69th/UPS Express,3
+P2,171,0,7,7,9,1,171,U. of Chicago/Hyde Park,3
+P2,171,1,8,8,9,1,171,U. of Chicago/Hyde Park,3
+P2,172,0,13,13,9,1,172,U. of Chicago/Kenwood,3
+P2,172,1,13,13,9,1,172,U. of Chicago/Kenwood,3
+P2,18,0,13,13,9,1,18,16th/18th,3
+P2,18,1,12,12,9,1,18,16th/18th,3
+P2,192,0,0,0,0,0,192,University of Chicago Hospitals Express,3
+P2,2,0,0,0,0,0,2,Hyde Park Express,3
+P2,2,1,0,0,0,0,2,Hyde Park Express,3
+P2,20,0,29,29,9,1,20,Madison,3
+P2,20,1,28,28,9,1,20,Madison,3
+P2,201,0,7,7,9,1,201,Central/Ridge,3
+P2,201,1,7,7,9,1,201,Central/Ridge,3
+P2,206,0,0,0,0,0,206,Evanston Circulator,3
+P2,206,1,0,0,0,0,206,Evanston Circulator,3
+P2,21,0,18,18,9,1,21,Cermak,3
+P2,21,1,17,17,9,1,21,Cermak,3
+P2,22,0,25,25,9,1,22,Clark,3
+P2,22,1,23,23,9,1,22,Clark,3
+P2,24,0,13,13,9,1,24,Wentworth,3
+P2,24,1,11,11,9,1,24,Wentworth,3
+P2,26,0,3,3,9,1,26,South Shore Express,3
+P2,26,1,16,16,9,1,26,South Shore Express,3
+P2,28,0,14,14,9,1,28,Stony Island,3
+P2,28,1,15,15,9,1,28,Stony Island,3
+P2,29,0,20,20,9,1,29,State,3
+P2,29,1,20,20,9,1,29,State,3
+P2,3,0,25,25,9,1,3,King Drive,3
+P2,3,1,23,23,9,1,3,King Drive,3
+P2,30,0,12,12,9,1,30,South Chicago,3
+P2,30,1,11,11,9,1,30,South Chicago,3
+P2,31,0,7,7,9,1,31,31st,3
+P2,31,1,7,7,9,1,31,31st,3
+P2,34,0,21,21,9,1,34,South Michigan,3
+P2,34,1,21,21,9,1,34,South Michigan,3
+P2,35,0,12,12,9,1,35,31st/35th,3
+P2,35,1,12,12,9,1,35,31st/35th,3
+P2,36,0,20,20,9,1,36,Broadway,3
+P2,36,1,20,20,9,1,36,Broadway,3
+P2,37,0,8,8,9,1,37,Sedgwick,3
+P2,37,1,8,8,9,1,37,Sedgwick,3
+P2,39,0,9,9,9,1,39,Pershing,3
+P2,39,1,9,9,9,1,39,Pershing,3
+P2,4,0,28,28,9,1,4,Cottage Grove,3
+P2,4,1,29,29,9,1,4,Cottage Grove,3
+P2,43,0,11,11,9,1,43,43rd,3
+P2,43,1,11,11,9,1,43,43rd,3
+P2,44,0,11,11,9,1,44,Wallace/Racine,3
+P2,44,1,12,12,9,1,44,Wallace/Racine,3
+P2,47,0,25,25,9,1,47,47th,3
+P2,47,1,26,26,9,1,47,47th,3
+P2,48,0,1,1,9,1,48,South Damen,3
+P2,48,1,0,0,0,0,48,South Damen,3
+P2,49,0,35,35,9,1,49,Western,3
+P2,49,1,34,34,9,1,49,Western,3
+P2,49B,0,19,19,9,1,49B,North Western,3
+P2,49B,1,18,18,9,1,49B,North Western,3
+P2,50,0,18.444444444444443,18,9,1,50,Damen,3
+P2,50,1,17,17,9,1,50,Damen,3
+P2,51,0,11,11,9,1,51,51st,3
+P2,51,1,11,11,9,1,51,51st,3
+P2,52,0,18,18,9,1,52,Kedzie,3
+P2,52,1,17,17,9,1,52,Kedzie,3
+P2,52A,0,12,12,9,1,52A,South Kedzie,3
+P2,52A,1,12,12,9,1,52A,South Kedzie,3
+P2,53,0,34.22222222222222,34,9,1,53,Pulaski,3
+P2,53,1,30.22222222222222,30,9,1,53,Pulaski,3
+P2,53A,0,13,13,9,1,53A,South Pulaski,3
+P2,53A,1,16,16,9,1,53A,South Pulaski,3
+P2,54,0,26,26,9,1,54,Cicero,3
+P2,54,1,24,24,9,1,54,Cicero,3
+P2,54A,0,0,0,0,0,54A,North Cicero/Skokie Blvd.,3
+P2,54A,1,0,0,0,0,54A,North Cicero/Skokie Blvd.,3
+P2,54B,0,10,10,9,1,54B,South Cicero,3
+P2,54B,1,10,10,9,1,54B,South Cicero,3
+P2,55,0,29,29,9,1,55,Garfield,3
+P2,55,1,26,26,9,1,55,Garfield,3
+P2,55A,0,0,0,0,0,55A,55th/Austin,3
+P2,55A,1,0,0,0,0,55A,55th/Austin,3
+P2,55N,0,9,9,9,1,55N,55th/Narragansett,3
+P2,55N,1,9,9,9,1,55N,55th/Narragansett,3
+P2,56,0,16,16,9,1,56,Milwaukee,3
+P2,56,1,15,15,9,1,56,Milwaukee,3
+P2,57,0,12,12,9,1,57,Laramie,3
+P2,57,1,12,12,9,1,57,Laramie,3
+P2,59,0,13,13,9,1,59,59th/61st,3
+P2,59,1,12,12,9,1,59,59th/61st,3
+P2,6,0,20,20,9,1,6,Jackson Park Express,3
+P2,6,1,20,20,9,1,6,Jackson Park Express,3
+P2,60,0,25,25,9,1,60,Blue Island/26th,3
+P2,60,1,25,25,9,1,60,Blue Island/26th,3
+P2,62,0,17,17,9,1,62,Archer,3
+P2,62,1,17,17,9,1,62,Archer,3
+P2,62H,0,7,7,9,1,62H,Archer/Harlem,3
+P2,62H,1,6,6,9,1,62H,Archer/Harlem,3
+P2,63,0,33,33,9,1,63,63rd,3
+P2,63,1,30,30,9,1,63,63rd,3
+P2,63W,0,8,8,9,1,63W,West 63rd,3
+P2,63W,1,8,8,9,1,63W,West 63rd,3
+P2,65,0,13,13,9,1,65,Grand,3
+P2,65,1,11,11,9,1,65,Grand,3
+P2,66,0,36,36,9,1,66,Chicago,3
+P2,66,1,35,35,9,1,66,Chicago,3
+P2,67,0,23,23,9,1,67,67th/69th/71st,3
+P2,67,1,23.22222222222222,23,9,1,67,67th/69th/71st,3
+P2,68,0,8,8,9,1,68,Northwest Highway,3
+P2,68,1,8,8,9,1,68,Northwest Highway,3
+P2,7,0,15,15,9,1,7,Harrison,3
+P2,7,1,16,16,9,1,7,Harrison,3
+P2,70,0,19,19,9,1,70,Division,3
+P2,70,1,19,19,9,1,70,Division,3
+P2,71,0,19,19,9,1,71,71st/South Shore,3
+P2,71,1,19,19,9,1,71,71st/South Shore,3
+P2,72,0,23,23,9,1,72,North,3
+P2,72,1,22,22,9,1,72,North,3
+P2,73,0,12,12,9,1,73,Armitage,3
+P2,73,1,14,14,9,1,73,Armitage,3
+P2,74,0,20,20,9,1,74,Fullerton,3
+P2,74,1,22,22,9,1,74,Fullerton,3
+P2,75,0,18,18,9,1,75,74th/75th,3
+P2,75,1,19,19,9,1,75,74th/75th,3
+P2,76,0,16,16,9,1,76,Diversey,3
+P2,76,1,18,18,9,1,76,Diversey,3
+P2,77,0,26,26,9,1,77,Belmont,3
+P2,77,1,30,30,9,1,77,Belmont,3
+P2,78,0,18,18,9,1,78,Montrose,3
+P2,78,1,17,17,9,1,78,Montrose,3
+P2,79,0,38,38,9,1,79,79th,3
+P2,79,1,40,40,9,1,79,79th,3
+P2,8,0,29,29,9,1,8,Halsted,3
+P2,8,1,28,28,9,1,8,Halsted,3
+P2,80,0,20,20,9,1,80,Irving Park,3
+P2,80,1,22.666666666666668,22,9,1,80,Irving Park,3
+P2,81,0,22,22,9,1,81,Lawrence,3
+P2,81,1,23,23,9,1,81,Lawrence,3
+P2,81W,0,9,9,9,1,81W,West Lawrence,3
+P2,81W,1,8,8,9,1,81W,West Lawrence,3
+P2,82,0,27,27,9,1,82,Kimball/Homan,3
+P2,82,1,31,31,9,1,82,Kimball/Homan,3
+P2,84,0,14,14,9,1,84,Peterson,3
+P2,84,1,16.444444444444443,16,9,1,84,Peterson,3
+P2,85,0,15,15,9,1,85,Central,3
+P2,85,1,15,15,9,1,85,Central,3
+P2,85A,0,10,10,9,1,85A,North Central,3
+P2,85A,1,9,9,9,1,85A,North Central,3
+P2,86,0,11,11,9,1,86,Narragansett/Ridgeland,3
+P2,86,1,11,11,9,1,86,Narragansett/Ridgeland,3
+P2,87,0,27,27,9,1,87,87th,3
+P2,87,1,23,23,9,1,87,87th,3
+P2,88,0,8,8,9,1,88,Higgins,3
+P2,88,1,8,8,9,1,88,Higgins,3
+P2,8A,0,14,14,9,1,8A,South Halsted,3
+P2,8A,1,13,13,9,1,8A,South Halsted,3
+P2,9,0,31,31,9,1,9,Ashland,3
+P2,9,1,33,33,9,1,9,Ashland,3
+P2,90,0,11,11,9,1,90,Harlem,3
+P2,90,1,11,11,9,1,90,Harlem,3
+P2,91,0,14,14,9,1,91,Austin,3
+P2,91,1,14,14,9,1,91,Austin,3
+P2,92,0,15,15,9,1,92,Foster,3
+P2,92,1,15,15,9,1,92,Foster,3
+P2,93,0,11,11,9,1,93,California/Dodge,3
+P2,93,1,11.444444444444445,11,9,1,93,California/Dodge,3
+P2,94,0,20,20,9,1,94,California,3
+P2,94,1,20,20,9,1,94,California,3
+P2,95,0,29,29,9,1,95,95th,3
+P2,95,1,29,29,9,1,95,95th,3
+P2,96,0,7,7,9,1,96,Lunt,3
+P2,96,1,6,6,9,1,96,Lunt,3
+P2,97,0,11,11,9,1,97,Skokie,3
+P2,97,1,11,11,9,1,97,Skokie,3
+P2,Blue,0,41,41,9,1,NA,Blue Line,1
+P2,Blue,1,41,41,9,1,NA,Blue Line,1
+P2,Brn,0,34,34,9,1,NA,Brown Line,1
+P2,G,0,24,24,9,1,NA,Green Line,1
+P2,G,1,24,24,9,1,NA,Green Line,1
+P2,J14,0,24,24,9,1,J14,Jeffery Jump,3
+P2,J14,1,24,24,9,1,J14,Jeffery Jump,3
+P2,Org,1,28,28,9,1,NA,Orange Line,1
+P2,P,1,39,39,9,1,NA,Purple Line,1
+P2,Pink,1,24,24,9,1,NA,Pink Line,1
+P2,Red,0,40,40,9,1,NA,Red Line,1
+P2,Red,1,40,40,9,1,NA,Red Line,1
+P2,X4,0,1,1,9,1,X4,Cottage Grove Express,3
+P2,X4,1,2,2,9,1,X4,Cottage Grove Express,3
+P2,X49,0,0,0,0,0,X49,Western Express,3
+P2,X49,1,0,0,0,0,X49,Western Express,3
+P2,X9,0,6,6,9,1,X9,Ashland Express,3
+P2,X9,1,4,4,9,1,X9,Ashland Express,3
+P2,Y,1,24,24,9,1,NA,Yellow Line,1
+P3,1,0,0,0,0,0,1,Bronzeville/Union Station,3
+P3,1,1,0,0,0,0,1,Bronzeville/Union Station,3
+P3,10,0,0,0,0,0,10,Museum of Science & Industry,3
+P3,10,1,0,0,0,0,10,Museum of Science & Industry,3
+P3,100,0,0,0,0,0,100,Jeffery Manor Express,3
+P3,100,1,0,0,0,0,100,Jeffery Manor Express,3
+P3,103,0,12,12,16,1,103,West 103rd,3
+P3,103,1,11,11,16,1,103,West 103rd,3
+P3,106,0,14,14,16,1,106,East 103rd,3
+P3,106,1,12,12,16,1,106,East 103rd,3
+P3,108,0,0,0,0,0,108,Halsted/95th,3
+P3,108,1,0,0,0,0,108,Halsted/95th,3
+P3,11,0,10,10,16,1,11,Lincoln,3
+P3,11,1,10,10,16,1,11,Lincoln,3
+P3,111,0,14,14,16,1,111,111th/King Drive,3
+P3,111,1,14,14,16,1,111,111th/King Drive,3
+P3,111A,0,10,10,16,1,111A,Pullman Shuttle,3
+P3,111A,1,10,10,16,1,111A,Pullman Shuttle,3
+P3,112,0,12,12,16,1,112,Vincennes/111th,3
+P3,112,1,13,13,16,1,112,Vincennes/111th,3
+P3,115,0,14,14,16,1,115,Pullman/115th,3
+P3,115,1,15,15,16,1,115,Pullman/115th,3
+P3,119,0,17,17,16,1,119,Michigan/119th,3
+P3,119,1,17,17,16,1,119,Michigan/119th,3
+P3,12,0,22,22,16,1,12,Roosevelt,3
+P3,12,1,22,22,16,1,12,Roosevelt,3
+P3,120,0,0,0,0,0,120,Ogilvie/Streeterville Express,3
+P3,120,1,0,0,0,0,120,Ogilvie/Streeterville Express,3
+P3,121,0,0,0,0,0,121,Union/Streeterville Express,3
+P3,121,1,0,0,0,0,121,Union/Streeterville Express,3
+P3,124,0,7,7,16,1,124,Navy Pier,3
+P3,124,1,7,7,16,1,124,Navy Pier,3
+P3,125,0,0,0,0,0,125,Water Tower Express,3
+P3,125,1,0,0,0,0,125,Water Tower Express,3
+P3,126,0,15,15,16,1,126,Jackson,3
+P3,126,1,14,14,16,1,126,Jackson,3
+P3,130,0,0,0,0,0,130,Museum Campus,3
+P3,130,1,0,0,0,0,130,Museum Campus,3
+P3,134,0,0,0,0,0,134,Stockton/LaSalle Express,3
+P3,135,0,0,0,0,0,135,Clarendon/LaSalle Express,3
+P3,136,0,0,0,0,0,136,Sheridan/LaSalle Express,3
+P3,143,0,0,0,0,0,143,Stockton/Michigan Express,3
+P3,146,0,23,23,16,1,146,Inner Lake Shore/Michigan Express,3
+P3,146,1,24,24,16,1,146,Inner Lake Shore/Michigan Express,3
+P3,147,0,22,22,16,1,147,Outer DuSable Lake Shore Express,3
+P3,147,1,16,16,16,1,147,Outer DuSable Lake Shore Express,3
+P3,148,0,0,0,0,0,148,Clarendon/Michigan Express,3
+P3,15,0,16,16,16,1,15,Jeffery Local,3
+P3,15,1,15,15,16,1,15,Jeffery Local,3
+P3,151,0,23,23,16,1,151,Sheridan,3
+P3,151,1,22,22,16,1,151,Sheridan,3
+P3,152,0,14,14,16,1,152,Addison,3
+P3,152,1,17,17,16,1,152,Addison,3
+P3,155,0,16,16,16,1,155,Devon,3
+P3,155,1,17,17,16,1,155,Devon,3
+P3,156,0,11,11,16,1,156,LaSalle,3
+P3,156,1,11,11,16,1,156,LaSalle,3
+P3,157,0,15,15,16,1,157,Streeterville/Taylor,3
+P3,157,1,15,15,16,1,157,Streeterville/Taylor,3
+P3,165,0,0,0,0,0,165,West 65th,3
+P3,169,0,0,0,0,0,169,69th/UPS Express,3
+P3,171,0,7,7,16,1,171,U. of Chicago/Hyde Park,3
+P3,171,1,8,8,16,1,171,U. of Chicago/Hyde Park,3
+P3,172,0,13,13,16,1,172,U. of Chicago/Kenwood,3
+P3,172,1,13,13,16,1,172,U. of Chicago/Kenwood,3
+P3,18,0,13,13,16,1,18,16th/18th,3
+P3,18,1,12,12,16,1,18,16th/18th,3
+P3,192,0,0,0,0,0,192,University of Chicago Hospitals Express,3
+P3,2,0,0,0,0,0,2,Hyde Park Express,3
+P3,2,1,0,0,0,0,2,Hyde Park Express,3
+P3,20,0,29,29,16,1,20,Madison,3
+P3,20,1,28,28,16,1,20,Madison,3
+P3,201,0,7,7,16,1,201,Central/Ridge,3
+P3,201,1,7,7,16,1,201,Central/Ridge,3
+P3,206,0,0,0,0,0,206,Evanston Circulator,3
+P3,206,1,0,0,0,0,206,Evanston Circulator,3
+P3,21,0,18,18,16,1,21,Cermak,3
+P3,21,1,17,17,16,1,21,Cermak,3
+P3,22,0,25,25,16,1,22,Clark,3
+P3,22,1,23,23,16,1,22,Clark,3
+P3,24,0,13,13,16,1,24,Wentworth,3
+P3,24,1,11,11,16,1,24,Wentworth,3
+P3,26,0,3,3,16,1,26,South Shore Express,3
+P3,26,1,16,16,16,1,26,South Shore Express,3
+P3,28,0,14,14,16,1,28,Stony Island,3
+P3,28,1,15,15,16,1,28,Stony Island,3
+P3,29,0,20,20,16,1,29,State,3
+P3,29,1,20,20,16,1,29,State,3
+P3,3,0,25,25,16,1,3,King Drive,3
+P3,3,1,23,23,16,1,3,King Drive,3
+P3,30,0,12,12,16,1,30,South Chicago,3
+P3,30,1,11,11,16,1,30,South Chicago,3
+P3,31,0,7,7,16,1,31,31st,3
+P3,31,1,7,7,16,1,31,31st,3
+P3,34,0,21,21,16,1,34,South Michigan,3
+P3,34,1,21,21,16,1,34,South Michigan,3
+P3,35,0,12,12,16,1,35,31st/35th,3
+P3,35,1,12,12,16,1,35,31st/35th,3
+P3,36,0,20,20,16,1,36,Broadway,3
+P3,36,1,20,20,16,1,36,Broadway,3
+P3,37,0,8,8,16,1,37,Sedgwick,3
+P3,37,1,8,8,16,1,37,Sedgwick,3
+P3,39,0,9,9,16,1,39,Pershing,3
+P3,39,1,9,9,16,1,39,Pershing,3
+P3,4,0,28,28,16,1,4,Cottage Grove,3
+P3,4,1,29,29,16,1,4,Cottage Grove,3
+P3,43,0,11,11,16,1,43,43rd,3
+P3,43,1,11,11,16,1,43,43rd,3
+P3,44,0,11,11,16,1,44,Wallace/Racine,3
+P3,44,1,12,12,16,1,44,Wallace/Racine,3
+P3,47,0,25,25,16,1,47,47th,3
+P3,47,1,26,26,16,1,47,47th,3
+P3,48,0,1,1,16,1,48,South Damen,3
+P3,48,1,0,0,0,0,48,South Damen,3
+P3,49,0,35,35,16,1,49,Western,3
+P3,49,1,34,34,16,1,49,Western,3
+P3,49B,0,19,19,16,1,49B,North Western,3
+P3,49B,1,18,18,16,1,49B,North Western,3
+P3,50,0,18.375,18,16,1,50,Damen,3
+P3,50,1,17,17,16,1,50,Damen,3
+P3,51,0,11,11,16,1,51,51st,3
+P3,51,1,11,11,16,1,51,51st,3
+P3,52,0,18,18,16,1,52,Kedzie,3
+P3,52,1,17,17,16,1,52,Kedzie,3
+P3,52A,0,12,12,16,1,52A,South Kedzie,3
+P3,52A,1,12,12,16,1,52A,South Kedzie,3
+P3,53,0,34.1875,34,16,1,53,Pulaski,3
+P3,53,1,30.1875,30,16,1,53,Pulaski,3
+P3,53A,0,13,13,16,1,53A,South Pulaski,3
+P3,53A,1,16,16,16,1,53A,South Pulaski,3
+P3,54,0,26,26,16,1,54,Cicero,3
+P3,54,1,24,24,16,1,54,Cicero,3
+P3,54A,0,0,0,0,0,54A,North Cicero/Skokie Blvd.,3
+P3,54A,1,0,0,0,0,54A,North Cicero/Skokie Blvd.,3
+P3,54B,0,10,10,16,1,54B,South Cicero,3
+P3,54B,1,10,10,16,1,54B,South Cicero,3
+P3,55,0,29,29,16,1,55,Garfield,3
+P3,55,1,26,26,16,1,55,Garfield,3
+P3,55A,0,0,0,0,0,55A,55th/Austin,3
+P3,55A,1,0,0,0,0,55A,55th/Austin,3
+P3,55N,0,9,9,16,1,55N,55th/Narragansett,3
+P3,55N,1,9,9,16,1,55N,55th/Narragansett,3
+P3,56,0,16,16,16,1,56,Milwaukee,3
+P3,56,1,15,15,16,1,56,Milwaukee,3
+P3,57,0,12,12,16,1,57,Laramie,3
+P3,57,1,12,12,16,1,57,Laramie,3
+P3,59,0,13,13,16,1,59,59th/61st,3
+P3,59,1,12,12,16,1,59,59th/61st,3
+P3,6,0,20,20,16,1,6,Jackson Park Express,3
+P3,6,1,20,20,16,1,6,Jackson Park Express,3
+P3,60,0,25,25,16,1,60,Blue Island/26th,3
+P3,60,1,25,25,16,1,60,Blue Island/26th,3
+P3,62,0,17,17,16,1,62,Archer,3
+P3,62,1,17,17,16,1,62,Archer,3
+P3,62H,0,7,7,16,1,62H,Archer/Harlem,3
+P3,62H,1,6,6,16,1,62H,Archer/Harlem,3
+P3,63,0,33,33,16,1,63,63rd,3
+P3,63,1,30,30,16,1,63,63rd,3
+P3,63W,0,8,8,16,1,63W,West 63rd,3
+P3,63W,1,8,8,16,1,63W,West 63rd,3
+P3,65,0,13,13,16,1,65,Grand,3
+P3,65,1,11,11,16,1,65,Grand,3
+P3,66,0,36,36,16,1,66,Chicago,3
+P3,66,1,35,35,16,1,66,Chicago,3
+P3,67,0,23,23,16,1,67,67th/69th/71st,3
+P3,67,1,23.1875,23,16,1,67,67th/69th/71st,3
+P3,68,0,8,8,16,1,68,Northwest Highway,3
+P3,68,1,8,8,16,1,68,Northwest Highway,3
+P3,7,0,15,15,16,1,7,Harrison,3
+P3,7,1,16,16,16,1,7,Harrison,3
+P3,70,0,19,19,16,1,70,Division,3
+P3,70,1,19,19,16,1,70,Division,3
+P3,71,0,19,19,16,1,71,71st/South Shore,3
+P3,71,1,19,19,16,1,71,71st/South Shore,3
+P3,72,0,23,23,16,1,72,North,3
+P3,72,1,22,22,16,1,72,North,3
+P3,73,0,12,12,16,1,73,Armitage,3
+P3,73,1,14,14,16,1,73,Armitage,3
+P3,74,0,20,20,16,1,74,Fullerton,3
+P3,74,1,22,22,16,1,74,Fullerton,3
+P3,75,0,18,18,16,1,75,74th/75th,3
+P3,75,1,19,19,16,1,75,74th/75th,3
+P3,76,0,16,16,16,1,76,Diversey,3
+P3,76,1,18,18,16,1,76,Diversey,3
+P3,77,0,26,26,16,1,77,Belmont,3
+P3,77,1,30,30,16,1,77,Belmont,3
+P3,78,0,18,18,16,1,78,Montrose,3
+P3,78,1,17,17,16,1,78,Montrose,3
+P3,79,0,38,38,16,1,79,79th,3
+P3,79,1,40,40,16,1,79,79th,3
+P3,8,0,29,29,16,1,8,Halsted,3
+P3,8,1,28,28,16,1,8,Halsted,3
+P3,80,0,20,20,16,1,80,Irving Park,3
+P3,80,1,22.5625,22,16,1,80,Irving Park,3
+P3,81,0,22,22,16,1,81,Lawrence,3
+P3,81,1,23,23,16,1,81,Lawrence,3
+P3,81W,0,9,9,16,1,81W,West Lawrence,3
+P3,81W,1,8,8,16,1,81W,West Lawrence,3
+P3,82,0,27,27,16,1,82,Kimball/Homan,3
+P3,82,1,31,31,16,1,82,Kimball/Homan,3
+P3,84,0,14,14,16,1,84,Peterson,3
+P3,84,1,16.375,16,16,1,84,Peterson,3
+P3,85,0,15,15,16,1,85,Central,3
+P3,85,1,15,15,16,1,85,Central,3
+P3,85A,0,10,10,16,1,85A,North Central,3
+P3,85A,1,9,9,16,1,85A,North Central,3
+P3,86,0,11,11,16,1,86,Narragansett/Ridgeland,3
+P3,86,1,11,11,16,1,86,Narragansett/Ridgeland,3
+P3,87,0,27,27,16,1,87,87th,3
+P3,87,1,23,23,16,1,87,87th,3
+P3,88,0,8,8,16,1,88,Higgins,3
+P3,88,1,8,8,16,1,88,Higgins,3
+P3,8A,0,14,14,16,1,8A,South Halsted,3
+P3,8A,1,13,13,16,1,8A,South Halsted,3
+P3,9,0,31,31,16,1,9,Ashland,3
+P3,9,1,33,33,16,1,9,Ashland,3
+P3,90,0,11,11,16,1,90,Harlem,3
+P3,90,1,11,11,16,1,90,Harlem,3
+P3,91,0,14,14,16,1,91,Austin,3
+P3,91,1,14,14,16,1,91,Austin,3
+P3,92,0,15,15,16,1,92,Foster,3
+P3,92,1,15,15,16,1,92,Foster,3
+P3,93,0,11,11,16,1,93,California/Dodge,3
+P3,93,1,11.5,11,16,1,93,California/Dodge,3
+P3,94,0,20,20,16,1,94,California,3
+P3,94,1,20,20,16,1,94,California,3
+P3,95,0,29,29,16,1,95,95th,3
+P3,95,1,29,29,16,1,95,95th,3
+P3,96,0,7,7,16,1,96,Lunt,3
+P3,96,1,6,6,16,1,96,Lunt,3
+P3,97,0,11,11,16,1,97,Skokie,3
+P3,97,1,11,11,16,1,97,Skokie,3
+P3,Blue,0,41,41,16,1,NA,Blue Line,1
+P3,Blue,1,41,41,16,1,NA,Blue Line,1
+P3,Brn,0,34,34,16,1,NA,Brown Line,1
+P3,G,0,24,24,16,1,NA,Green Line,1
+P3,G,1,24,24,16,1,NA,Green Line,1
+P3,J14,0,24,24,16,1,J14,Jeffery Jump,3
+P3,J14,1,24,24,16,1,J14,Jeffery Jump,3
+P3,Org,1,28,28,16,1,NA,Orange Line,1
+P3,P,1,39,39,16,1,NA,Purple Line,1
+P3,Pink,1,24,24,16,1,NA,Pink Line,1
+P3,Red,0,40,40,16,1,NA,Red Line,1
+P3,Red,1,40,40,16,1,NA,Red Line,1
+P3,X4,0,1,1,16,1,X4,Cottage Grove Express,3
+P3,X4,1,2,2,16,1,X4,Cottage Grove Express,3
+P3,X49,0,0,0,0,0,X49,Western Express,3
+P3,X49,1,0,0,0,0,X49,Western Express,3
+P3,X9,0,6,6,16,1,X9,Ashland Express,3
+P3,X9,1,4,4,16,1,X9,Ashland Express,3
+P3,Y,1,24,24,16,1,NA,Yellow Line,1
