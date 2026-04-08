@@ -1,0 +1,4 @@
+period_id,period_label,period_start,period_end,rep_date,note
+P1,2025-08-04_to_2025-08-25,2025-08-04,2025-08-25,2025-08-20,"Feed starts on 2025-08-12, so P1 is represented by the available portion only"
+P2,2025-08-25_to_2025-09-08,2025-08-25,2025-09-08,2025-08-27,Typical Wednesday
+P3,2025-09-08_to_2025-09-29,2025-09-08,2025-09-29,2025-09-17,Typical Wednesday

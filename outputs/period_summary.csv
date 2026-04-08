@@ -1,0 +1,4 @@
+period_id,period_label,period_start,period_end,rep_date,note,n_routes_peak,median_headway_peak_min,n_routes_midday,median_headway_midday_min,total_peak_trips,n_route_direction_peak,total_midday_trips,n_route_direction_midday
+P1,2025-08-04_to_2025-08-25,8/4/25,8/25/25,8/20/25,"Feed starts on 2025-08-12, so P1 is represented by the available portion only",132,12,115,15,3854,247,3827,220
+P2,2025-08-25_to_2025-09-08,8/25/25,9/8/25,8/27/25,Typical Wednesday,132,12,115,15,3854,247,3827,220
+P3,2025-09-08_to_2025-09-29,9/8/25,9/29/25,9/17/25,Typical Wednesday,130,12,113,15,3852,246,3787,216
